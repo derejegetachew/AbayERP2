@@ -1,0 +1,10 @@
+{
+	success:true,
+	results: <?php echo $results; ?>,
+	rows: [
+<?php $st = false; foreach($positions as $position){ if($st) echo ","; ?>			{
+				"id":"<?php echo $position['Position']['id']; ?>",
+				"name":"<?php echo $position['Position']['name']; ?>",
+				"grade":"<?php echo $position['Grade']['name']; ?>"			}
+<?php $st = true; } ?>		]
+}

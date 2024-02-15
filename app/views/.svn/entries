@@ -1,0 +1,136 @@
+10
+
+dir
+17
+https://abay-pc/svn/ERP/app/views
+https://abay-pc/svn/ERP
+
+
+
+2013-05-09T07:26:54.488137Z
+12
+aben
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f794584-1cb7-ea4e-b216-180b9dda3a38
+
+about
+dir
+
+back_office
+dir
+
+banks
+dir
+
+bk
+dir
+
+branches
+dir
+
+budget_years
+dir
+
+celebration_days
+dir
+
+containers
+dir
+
+educations
+dir
+
+elements
+dir
+
+employee_details
+dir
+
+employees
+dir
+
+errors
+dir
+
+experiences
+dir
+
+grades
+dir
+
+groups
+dir
+
+helpers
+dir
+
+holidays
+dir
+
+languages
+dir
+
+layouts
+dir
+
+links
+dir
+
+location_types
+dir
+
+locations
+dir
+
+log_viewer
+dir
+
+offsprings
+dir
+
+pages
+dir
+
+permissions
+dir
+
+positions
+dir
+
+scaffolds
+dir
+
+scales
+dir
+
+search
+dir
+
+settings
+dir
+
+steps
+dir
+
+supervisors
+dir
+
+users
+dir
+
+web_folders
+dir
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://abay-pc/svn/ERP/app/libs/PHPMailer/test_script
+https://abay-pc/svn/ERP
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f794584-1cb7-ea4e-b216-180b9dda3a38
+
+LGPLv3.txt
+file
+
+
+
+add
+
+contents.html
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+index.php
+file
+
+
+
+add
+
+scripts
+dir
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+styles
+dir
+
+
+
+add
+
+test.html
+file
+
+
+
+add
+

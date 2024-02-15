@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://abay-pc/svn/ERP/app/libs/PHPMailer
+https://abay-pc/svn/ERP
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f794584-1cb7-ea4e-b216-180b9dda3a38
+
+LICENSE
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+changelog.txt
+file
+
+
+
+add
+
+class.phpmailer.php
+file
+
+
+
+add
+
+class.pop3.php
+file
+
+
+
+add
+
+class.smtp.php
+file
+
+
+
+add
+
+docs
+dir
+
+
+
+add
+
+docs.ini
+file
+
+
+
+add
+
+examples
+dir
+
+
+
+add
+
+extras
+dir
+
+
+
+add
+
+language
+dir
+
+
+
+add
+
+test
+dir
+
+
+
+add
+
+test_script
+dir
+
+
+
+add
+

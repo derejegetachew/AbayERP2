@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ERP/!svn/ver/12/app/views/bk/holidays
+END
+index2.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/index2.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/view.ctp
+END
+search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/search.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/edit.ctp
+END
+list_data.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ERP/!svn/ver/12/app/views/bk/holidays/list_data.ctp
+END

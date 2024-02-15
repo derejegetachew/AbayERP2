@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/ERP/!svn/ver/12/app/views/banks
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ERP/!svn/ver/12/app/views/banks/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ERP/!svn/ver/12/app/views/banks/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ERP/!svn/ver/12/app/views/banks/view.ctp
+END
+search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ERP/!svn/ver/12/app/views/banks/search.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ERP/!svn/ver/12/app/views/banks/edit.ctp
+END
+list_data.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ERP/!svn/ver/12/app/views/banks/list_data.ctp
+END

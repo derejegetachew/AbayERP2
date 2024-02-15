@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ERP/!svn/ver/27/app/views/prices
+END
+index2.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ERP/!svn/ver/27/app/views/prices/index2.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ERP/!svn/ver/27/app/views/prices/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ERP/!svn/ver/27/app/views/prices/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ERP/!svn/ver/27/app/views/prices/view.ctp
+END
+search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ERP/!svn/ver/27/app/views/prices/search.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ERP/!svn/ver/27/app/views/prices/edit.ctp
+END
+list_data.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ERP/!svn/ver/27/app/views/prices/list_data.ctp
+END

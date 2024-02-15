@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ERP/!svn/ver/12/app/views/languages
+END
+index2.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ERP/!svn/ver/12/app/views/languages/index2.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ERP/!svn/ver/12/app/views/languages/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ERP/!svn/ver/12/app/views/languages/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ERP/!svn/ver/12/app/views/languages/view.ctp
+END
+search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ERP/!svn/ver/12/app/views/languages/search.ctp
+END
+list_language.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ERP/!svn/ver/12/app/views/languages/list_language.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ERP/!svn/ver/12/app/views/languages/edit.ctp
+END
+list_data.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ERP/!svn/ver/12/app/views/languages/list_data.ctp
+END

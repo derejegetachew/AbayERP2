@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://abay-pc/svn/ERP/app/libs/PHPMailer/docs
+https://abay-pc/svn/ERP
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f794584-1cb7-ea4e-b216-180b9dda3a38
+
+Callback_function_notes.txt
+file
+
+
+
+add
+
+DomainKeys_notes.txt
+file
+
+
+
+add
+
+Note_for_SMTP_debugging.txt
+file
+
+
+
+add
+
+extending.html
+file
+
+
+
+add
+
+faq.html
+file
+
+
+
+add
+
+makedocs2.sh
+file
+
+
+
+add
+
+phpdoc
+dir
+
+
+
+add
+
+pop3_article.txt
+file
+
+
+
+add
+
+use_gmail.txt
+file
+
+
+
+add
+

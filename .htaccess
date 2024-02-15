@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+   php_value max_execution_time 0
+</IfModule>
+#<RequireAny>
+    #IPv4 range at my work
+#    Require ip 10.1.50.58 
+#    Require ip 10.1.85.10
+#    Require ip 10.1.30.17
+#</RequireAny>

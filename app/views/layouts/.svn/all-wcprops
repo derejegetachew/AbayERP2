@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/ERP/!svn/ver/12/app/views/layouts
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ERP/!svn/ver/12/app/views/layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ERP/!svn/ver/12/app/views/layouts/default.ctp
+END
+message_layout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ERP/!svn/ver/12/app/views/layouts/message_layout.ctp
+END
+default_for_web_folders.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ERP/!svn/ver/12/app/views/layouts/default_for_web_folders.ctp
+END
+xml.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ERP/!svn/ver/12/app/views/layouts/xml.ctp
+END
+add_form_layout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ERP/!svn/ver/12/app/views/layouts/add_form_layout.ctp
+END
+main.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ERP/!svn/ver/18/app/views/layouts/main.ctp
+END
+login.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ERP/!svn/ver/12/app/views/layouts/login.ctp
+END
+file_upload_form_layout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ERP/!svn/ver/12/app/views/layouts/file_upload_form_layout.ctp
+END
+print_layout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ERP/!svn/ver/12/app/views/layouts/print_layout.ctp
+END

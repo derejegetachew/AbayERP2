@@ -1,0 +1,27 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+</IfModule>
+
+# Expires headers
+<IfModule mod_expires.c>
+ExpiresActive on
+#ExpiresDefault "access plus 1 month"
+
+# Favicon (cannot be renamed)
+ExpiresByType image/x-icon "access plus 1 week"
+# Media: images, video, audio
+ExpiresByType image/gif "access plus 4 months"
+ExpiresByType image/png "access plus 4 months"
+ExpiresByType image/jpeg "access plus 4 months"
+ExpiresByType image/webp "access plus 4 months"
+ExpiresByType video/ogg "access plus 4 months"
+ExpiresByType audio/ogg "access plus 4 months"
+ExpiresByType video/mp4 "access plus 4 months"
+ExpiresByType video/webm "access plus 4 months"
+
+php_value max_execution_time 0
+
+</IfModule>

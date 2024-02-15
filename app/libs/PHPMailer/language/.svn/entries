@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://abay-pc/svn/ERP/app/libs/PHPMailer/language
+https://abay-pc/svn/ERP
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f794584-1cb7-ea4e-b216-180b9dda3a38
+
+phpmailer.lang-ar.php
+file
+
+
+
+add
+
+phpmailer.lang-br.php
+file
+
+
+
+add
+
+phpmailer.lang-ca.php
+file
+
+
+
+add
+
+phpmailer.lang-ch.php
+file
+
+
+
+add
+
+phpmailer.lang-cz.php
+file
+
+
+
+add
+
+phpmailer.lang-de.php
+file
+
+
+
+add
+
+phpmailer.lang-dk.php
+file
+
+
+
+add
+
+phpmailer.lang-es.php
+file
+
+
+
+add
+
+phpmailer.lang-et.php
+file
+
+
+
+add
+
+phpmailer.lang-fi.php
+file
+
+
+
+add
+
+phpmailer.lang-fo.php
+file
+
+
+
+add
+
+phpmailer.lang-fr.php
+file
+
+
+
+add
+
+phpmailer.lang-hu.php
+file
+
+
+
+add
+
+phpmailer.lang-it.php
+file
+
+
+
+add
+
+phpmailer.lang-ja.php
+file
+
+
+
+add
+
+phpmailer.lang-nl.php
+file
+
+
+
+add
+
+phpmailer.lang-no.php
+file
+
+
+
+add
+
+phpmailer.lang-pl.php
+file
+
+
+
+add
+
+phpmailer.lang-ro.php
+file
+
+
+
+add
+
+phpmailer.lang-ru.php
+file
+
+
+
+add
+
+phpmailer.lang-se.php
+file
+
+
+
+add
+
+phpmailer.lang-sk.php
+file
+
+
+
+add
+
+phpmailer.lang-tr.php
+file
+
+
+
+add
+
+phpmailer.lang-zh.php
+file
+
+
+
+add
+
+phpmailer.lang-zh_cn.php
+file
+
+
+
+add
+

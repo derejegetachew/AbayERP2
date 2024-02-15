@@ -1,0 +1,13 @@
+{
+	success:true,
+	results: <?php echo $results; ?>,
+	rows: [
+<?php $st = false; foreach($payroll_employees as $payroll_employee){ if($st) echo ","; ?>			{
+				"id":"<?php echo $payroll_employee['PayrollEmployee']['id']; ?>",
+				"payroll":"<?php echo $payroll_employee['Payroll']['name']; ?>",
+				"employee":"<?php echo $payroll_employee['Employee']['id']; ?>",
+				"status":"<?php echo $payroll_employee['PayrollEmployee']['status']; ?>",
+				"date":"<?php echo $payroll_employee['PayrollEmployee']['date']; ?>",
+				"remark":"<?php echo $payroll_employee['PayrollEmployee']['remark']; ?>"			}
+<?php $st = true; } ?>		]
+}
